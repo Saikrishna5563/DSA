@@ -1,0 +1,42 @@
+# Data Structures and Algorithms (DSA)
+
+This repository contains my implementations of various data structures and algorithms, written in Java.
+
+## Contents
+
+This repository covers the following topics:
+
+* **Data Structures:**
+    * Arrays
+    * Linked Lists (Singly, Doubly, Circular)
+    * Stacks
+    * Queues (Simple, Circular, Priority)
+    * Trees (Binary Trees, Binary Search Trees, AVL Trees)
+    * Heaps (Min Heap, Max Heap)
+    * Hash Tables
+    * Graphs (Adjacency Matrix, Adjacency List)
+* **Algorithms:**
+    * Sorting Algorithms (Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort)
+    * Searching Algorithms (Linear Search, Binary Search)
+    * Recursion
+    * Dynamic Programming
+    * Graph Algorithms (Depth-First Search, Breadth-First Search, Dijkstra's Algorithm)
+
+## How to Use
+
+* Clone the repository to your local machine:
+    ```bash
+    git clone <repository_url>
+    ```
+* Navigate to the directory containing the code.
+* Compile and run the Java files using a Java Development Kit (JDK).
+
+## Contact
+
+* **Email:** <leelasaikrishnavelpuri@gmail.com>
+* **LinkedIn:** [www.linkedin.com/in/leela-sai-krishna-velpuri](www.linkedin.com/in/leela-sai-krishna-velpuri)
+
+## Contributions
+
+Contributions are welcome! If you find any issues or have improvements, feel free to submit a pull request.
+
